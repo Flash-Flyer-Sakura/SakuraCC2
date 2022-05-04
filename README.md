@@ -1,2 +1,2 @@
-# SakuraCC2
+# Sakura CC
  Custom card stuff
